@@ -6,6 +6,12 @@ This project was about creating a blog via nextjs, by following an online tutori
 
 ![image](https://user-images.githubusercontent.com/92995941/145587188-a8a103c8-8328-41d0-b0d4-58499757cc40.png)
 
+## Demo
+
+
+https://user-images.githubusercontent.com/92995941/145608361-b46b9cd5-8311-4357-97fe-ec436c07edf3.mp4
+
+
 ## Description
 This was a school project in which we had to create a blog with nextjs, in order to understand how this framework works. All of this was done by following a tutorial on the nextjs website (link in the credits section).
 
