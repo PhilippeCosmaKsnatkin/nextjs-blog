@@ -10,8 +10,31 @@ This project was about creating a blog via nextjs, by following an online tutori
 This was a school project in which we had to create a blog with nextjs, in order to understand how this framework works. All of this was done by following a tutorial on the nextjs website (link in the credits section).
 
 ## How to install
+Setup
+First, let’s make sure that your development environment is ready.
+
+If you don’t have Node.js installed, install it from here : https://nodejs.org/en/ 
+You’ll need Node.js version 10.13 or later.
+You’ll be using your own text editor and terminal app for this tutorial.
 
 ## How to use
+### Create a Next.js app
+To create a Next.js app, open your terminal, cd into the directory you’d like to create the app in, and run the following command:
+```terminal
+npx create-next-app nextjs-blog --use-npm --example "https://github.com/vercel/next-learn/tree/master/basics/learn-starter"
+```
+### Run the development server
+You now have a new directory called nextjs-blog. cd into it:
+```terminal
+cd nextjs-blog
+```
+Then, run the following command:
+```terminal
+npm run dev
+```
+This starts your Next.js app’s "development server" on port 3000.
+Open http://localhost:3000 from your browser to access it
+For the rest, you can just follow the tutorial
 
 ## Credits
 Link to the nextjs tutorial, so you can try to make this project by yourself : https://nextjs.org/learn/basics/create-nextjs-app
