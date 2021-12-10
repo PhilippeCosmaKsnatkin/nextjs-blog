@@ -16,11 +16,11 @@ https://user-images.githubusercontent.com/92995941/145608361-b46b9cd5-8311-4357-
 This was a school project in which we had to create a blog with nextjs, in order to understand how this framework works. All of this was done by following a tutorial on the nextjs website (link in the credits section).
 
 ### What can this do ?
-It's a really simple website. You can access 3 pages on it, and there is one link to redirect you to the nextjs tutorial
+It's a really simple website. You can access 3 pages on it, you can navigate between pages with links and there is one link to redirect you to the nextjs tutorial
 
 ## How to install
 Setup
-First, let’s make sure that your development environment is ready.
+First, make sure that your development environment is ready. You will need Node.js
 
 If you don’t have Node.js installed, install it from here : https://nodejs.org/en/ 
 You’ll need Node.js version 10.13 or above.
